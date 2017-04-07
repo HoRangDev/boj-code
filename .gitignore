@@ -33,3 +33,7 @@
 *.lastbuildstate
 *.tlog
 *.idb
+*.suo
+*.log
+*.pdb
+*.ilk
